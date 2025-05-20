@@ -1,2 +1,1 @@
-# healthz
 # Test Server
